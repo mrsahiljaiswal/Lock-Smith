@@ -8,7 +8,7 @@ Lock-Smith is a React application designed to generate secure and customizable p
 - **Customizable Password Generation:** Choose various options to generate passwords tailored to your needs.
 - **Real-Time Updates:** See password changes instantly as you adjust the settings.
 - **User-Friendly Design:** Simple and intuitive interface for ease of use.
--**Use-Copy-Tool:** Once password is generated you can copy the passwowrd with one click
+- **Use-Copy-Tool:** Once password is generated you can copy the passwowrd with one click.
   
 🛠️ **Tech Stack**
 - **React:** For building the user interface and interactive components.
