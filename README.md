@@ -1,7 +1,3 @@
-Got it! Here’s the updated README with the live demo link included:
-
----
-
 # Lock-Smith
 
 **[Live Demo](https://lock-smith.netlify.app)**
