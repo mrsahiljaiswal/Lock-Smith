@@ -1,0 +1,25 @@
+.heading{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    justify-content: flex-start;
+    width: 100%;
+    font-family: "Source code Pro";
+}
+
+h1{
+    font-size: 1.5em;
+}
+.Icon{
+    font-size: 1.5rem;
+}
+
+@media screen and (max-width: 579px) {
+    .heading{
+        justify-content: center;
+        gap: 0px;
+    }
+    h1,.Icon{
+        font-size: 1.25rem;
+    }
+  }

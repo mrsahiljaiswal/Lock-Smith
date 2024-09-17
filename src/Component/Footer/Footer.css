@@ -1,0 +1,21 @@
+.social-icon{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+    margin-top: 40px;
+    
+}
+
+.icon{
+    margin-left: 10px;
+    color: black;
+}
+
+@media screen and (max-width: 579px) {
+    .social-icon{
+        font-size: 25px;
+        margin-top: 50px;
+        justify-content: center;
+    }
+  }
