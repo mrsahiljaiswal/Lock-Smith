@@ -28,7 +28,7 @@ const Input = ({value}) => {
     <div className='password-container'>
 
     <FaAndroid className='android-icon' />
-    <hero>
+    <div className='main-hero'>
       <input type="text" className='passwordBox'    value={  value || "Hmm... 🤔"  } readOnly />
       <button className="copy" 
         onMouseEnter={handleMouseEnter}
@@ -37,7 +37,7 @@ const Input = ({value}) => {
         <MdContentCopy className='copy-icon active' 
         />
       </button>
-    </hero>
+    </div>
     
     <div className="copy-icon-container" style={{ position: 'relative', display: 'inline-block' }}>
         
