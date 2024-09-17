@@ -2,6 +2,8 @@
 
 **[Live Demo](https://lock-smith.netlify.app)**
 
+https://res.cloudinary.com/de5pdwmbc/image/upload/v1726603189/pzx2bmsxweonq5w4zb47.png
+
 Lock-Smith is a React application designed to generate secure and customizable passwords based on your preferences. Whether you need a strong password for a new account or want to test different password styles, Lock-Smith provides a flexible and user-friendly interface. This project showcases my skills in React and is hosted on GitHub.
 
 🚀 **Features**
