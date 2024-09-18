@@ -1,28 +1,16 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-# React + Vite
-=======
 # Lock-Smith
->>>>>>> 309aaa944d4132d2ecb9ed61f9e4b11232d6c59d
 
 **[Live Demo](https://lock-smith.netlify.app)**
 
 ![Lock-Smith Screenshot](https://res.cloudinary.com/de5pdwmbc/image/upload/v1726603189/pzx2bmsxweonq5w4zb47.png)
 
-<<<<<<< HEAD
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-=======
-# Lock-Smith
->>>>>>> origin/main
-=======
 Lock-Smith is a React application designed to generate secure and customizable passwords based on your preferences. Whether you need a strong password for a new account or want to test different password styles, Lock-Smith provides a flexible and user-friendly interface. This project showcases my skills in React and is hosted on GitHub.
 
 🚀 **Features**
 - **Customizable Password Generation:** Choose various options to generate passwords tailored to your needs.
 - **Real-Time Updates:** See password changes instantly as you adjust the settings.
 - **User-Friendly Design:** Simple and intuitive interface for ease of use.
-- **Use-Copy-Tool:** Once password is generated you can copy the passwowrd with one click.
+- **Use-Copy-Tool:** Once password is generated you can copy the password with one click.
   
 🛠️ **Tech Stack**
 - **React:** For building the user interface and interactive components.
@@ -72,4 +60,3 @@ You can access the live version of the app at [lock-smith.netlify.app](https://l
 Contributions are always welcome! If you have suggestions for improvements or encounter any issues, feel free to open a pull request or submit an issue in the repository.
 
 Lock-Smith: Your go-to tool for generating secure and customizable passwords!
->>>>>>> 309aaa944d4132d2ecb9ed61f9e4b11232d6c59d
