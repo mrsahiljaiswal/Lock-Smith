@@ -47,19 +47,23 @@ const Customise = ({setPassword}) => {
         <div className="customise">
           
         <div className="check-div">
-          <input defaultChecked={true} type="checkbox" onChange={()=>{setIsUsUpperCaseAllowed((prevValue)=>!prevValue)}} name="" id="" /> Uppercase [ A - Z ]
+          <input defaultChecked={true} type="checkbox" onChange={()=>{setIsUsUpperCaseAllowed((prevValue)=>!prevValue)}} name="" id="uppercase" /> 
+          <label htmlFor="uppercase">Uppercase [ A - Z ]</label>
         </div>
 
         <div className="check-div">
-          <input defaultChecked={true} type="checkbox" onChange={()=>{setIsLowerCaseAllowed((prevValue)=>!prevValue)}} name="" id="" /> Lowercase [ a - z ]
+          <input defaultChecked={true} type="checkbox" onChange={()=>{setIsLowerCaseAllowed((prevValue)=>!prevValue)}} name="" id="lowercase" /> 
+          <label htmlFor="lowercase">Lowercase [ a - z ]</label>
         </div>
           
         <div className="check-div">
-          <input type="checkbox" onChange={()=>{setIsNumberAllowed((prevValue)=>!prevValue)}} name="" id="" /> Numeric [ 0 - 9]
+          <input type="checkbox" onChange={()=>{setIsNumberAllowed((prevValue)=>!prevValue)}} name="" id="numeric" /> 
+          <label htmlFor="numeric">Numeric [ 0 - 9]</label>
         </div>
 
         <div className="check-div">
-          <input type="checkbox" onChange={()=>{setIsCharacterAllowed((prevValue)=>!prevValue)}} name="" id="" /> Symbol
+          <input type="checkbox" onChange={()=>{setIsCharacterAllowed((prevValue)=>!prevValue)}} name="" id="symbol" /> 
+          <label htmlFor="symbol">Symbol</label>
         </div>
 
         <div className='range'>
