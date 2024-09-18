@@ -6,24 +6,24 @@
 
 Lock-Smith is a React application designed to generate secure and customizable passwords based on your preferences. Whether you need a strong password for a new account or want to test different password styles, Lock-Smith provides a flexible and user-friendly interface. This project showcases my skills in React and is hosted on GitHub.
 
-ðŸš€ **Features**
+🚀 **Features**
 - **Customizable Password Generation:** Choose various options to generate passwords tailored to your needs.
 - **Real-Time Updates:** See password changes instantly as you adjust the settings.
 - **User-Friendly Design:** Simple and intuitive interface for ease of use.
 - **Use-Copy-Tool:** Once password is generated you can copy the password with one click.
   
-ðŸ› ï¸ **Tech Stack**
+🛠️ **Tech Stack**
 - **React:** For building the user interface and interactive components.
 - **Vite:** For fast development and optimized production builds.
 - **HTML5 & CSS3:** For the structure and styling of the application.
 - **JavaScript:** Core functionality to handle password generation and customization.
 
-ðŸŽ¯ **Use Cases**
+🎯 **Use Cases**
 - **Secure Password Creation:** Generate strong, secure passwords for your accounts.
 - **Password Testing:** Experiment with different password configurations to find the best fit.
 - **Customization:** Tailor the password generation to your specific needs and preferences.
 
-ðŸ“¦ **Installation**
+📦 **Installation**
 To run the project locally, follow these steps:
 
 1. Clone the repository:
@@ -48,15 +48,15 @@ To run the project locally, follow these steps:
 
    The app should now be running on [http://localhost:3000](http://localhost:3000).
 
-ðŸŒ **Live Demo**
+🌐 **Live Demo**
 You can access the live version of the app at [lock-smith.netlify.app](https://lock-smith.netlify.app).
 
-ðŸ“„ **Usage**
+📄 **Usage**
 1. Open the app in your browser via the live link.
 2. Configure your password preferences using the available options.
 3. Watch as the generated password updates in real time based on your settings.
 
-ðŸ¤ **Contributing**
+🤝 **Contributing**
 Contributions are always welcome! If you have suggestions for improvements or encounter any issues, feel free to open a pull request or submit an issue in the repository.
 
 Lock-Smith: Your go-to tool for generating secure and customizable passwords!
