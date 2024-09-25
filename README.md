@@ -28,7 +28,7 @@ To run the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Lock-Smith.git
+   git clone https://github.com/mrsahiljaiswal/Lock-Smith.git
    ```
 
 2. Navigate to the project directory:
