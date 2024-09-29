@@ -60,3 +60,7 @@ You can access the live version of the app at [lock-smith.netlify.app](https://l
 Contributions are always welcome! If you have suggestions for improvements or encounter any issues, feel free to open a pull request or submit an issue in the repository.
 
 Lock-Smith: Your go-to tool for generating secure and customizable passwords!
+
+---
+
+**[Live Demo](https://lock-smith.netlify.app)**
