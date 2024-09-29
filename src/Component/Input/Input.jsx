@@ -39,22 +39,14 @@ const Input = ({value}) => {
       </button>
     </div>
     
-    <div className="copy-icon-container" style={{ position: 'relative', display: 'inline-block' }}>
+    <div className="copy-icon-container">
         
 
         {showTooltip && (
             <div
                 className="tooltip"
                 style={{
-                    position: 'absolute',
-                    top: '-60px',
-                    left: '260px',
-                    transform: 'translateX(-50%)',
-                    backgroundColor: '#333',
-                    color: '#fff',
-                    padding: '5px',
-                    borderRadius: '3px',
-                    fontSize: '12px',
+                    
                 }}
             >
                 

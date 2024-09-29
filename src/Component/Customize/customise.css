@@ -15,6 +15,7 @@ main{
 }
 
 .regenerate-btn{
+    
     outline: none;
     border: none;
     background-color: white;
@@ -27,6 +28,10 @@ main{
     border-radius: 7px;
     color: white;
     font-size: 1.5rem;
+}
+
+.regenerate-btn:hover{
+    background-color:#2fbe6f; 
 }
 
 .btn-box{
@@ -77,6 +82,7 @@ input[type="range"]{
 .check-div{
     margin: 20px 20px;
 }
+
 
 
 

@@ -42,6 +42,23 @@ input[type="text"]{
 
 }
 
+.copy-icon-container{
+  position: relative;
+  display: inline-block 
+}
+
+.tooltip{
+  position: absolute;
+  top: -60px;
+  left: 260px;
+  transform: translateX(-50%);
+  background-color: #333;
+  color: #fff;
+  padding: 5px;
+  border-radius: 3px;
+  font-size: 12px;
+}
+
 .copy-icon{
     font-size: 1.5rem;
     color: #3c3c3c;
